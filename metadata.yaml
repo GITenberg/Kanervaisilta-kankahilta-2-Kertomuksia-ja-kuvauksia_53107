@@ -1,0 +1,25 @@
+_repo: Kanervaisilta-kankahilta-2-Kertomuksia-ja-kuvauksia_53107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salokannel, Akseli
+    gutenberg_agent_id: '47206'
+    url: http://www.gutenberg.org/2009/agents/47206
+description: ''
+gutenberg_issued: '2016-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53107'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 20th century'
+- GITenberg
+tableOfContents: Salmelan sieni-afääri -- "Sydänmaan tähti" -- Keväisiä tunteita --
+  Huvimatka -- "Pikkujussi" -- Katri.
+title: 'Kanervaisilta kankahilta 2: Kertomuksia ja kuvauksia'
+url: http://www.gutenberg.org/ebooks/53107
